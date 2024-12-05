@@ -34,4 +34,3 @@ A RESTful API for managing meter readings, including uploading and processing CS
 - **Response**:
   - `200 OK`: Paginated list of meter readings.
   - `404 Not Found`: No meter readings found.
-	- 
